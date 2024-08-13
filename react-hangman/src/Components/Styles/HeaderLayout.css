@@ -1,0 +1,38 @@
+/* Styles the header component */
+.header-container {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* Styles the h1 tag */
+.header-container h1 {
+  color: rgb(229, 255, 0);
+  font-size: 50px;
+  font-family: fantasy;
+}
+
+/* Styles the button */
+.header-container button {
+  margin: 40px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+/* Styles the help container */
+.help {
+  position: absolute;
+  left: 250px;
+  background-color: cornsilk;
+  border-radius: 20px;
+  padding: 10px;
+  opacity: 0.95;
+}
+
+/* Styles the exit button */
+.help .exit-button {
+  margin: 3px 10px 3px 10px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}

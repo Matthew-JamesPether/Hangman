@@ -1,0 +1,64 @@
+/* Styles the main container */
+.main-container {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  align-items: center;
+}
+
+/* Styles the hangman container */
+.hangman-container {
+  grid-column: 1;
+  justify-self: end;
+}
+
+/* Styles the hangman container image */
+.hangman-container img {
+  border-radius: 10px;
+}
+
+/* Styles the hangman container p tag */
+.hangman-container p {
+  font-size: 20px;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+/* Styles the game result container */
+.game-result {
+  text-align: center;
+  grid-column: 2;
+  justify-self: center;
+}
+
+/* Styles the game result h2 tag */
+.game-result h2 {
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+/* Styles the word container */
+.word-container {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+/* Styles the word container letter */
+.word-container .letter {
+  padding: 10px;
+  font-size: 40px;
+}
+
+/* Styles the keyboard container */
+.keyboard-container {
+  text-align: center;
+}
+
+/* Styles the keyboard buttons */
+.keyboard-container .buttonLetter {
+  margin: 10px;
+  width: 60px;
+  height: 50px;
+  font-size: 30px;
+  border-radius: 10px;
+}
