@@ -23,16 +23,20 @@ I Developed a Hangman game using React. It selects a random word from a dictiona
 A ScreenShot of the app running
 ![Hangman Screenshots/Screenshot(1).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(1).png)
 
-
 A ScreenShot of how to use the help button and how to close the help prompt
+![Hangman Screenshots/Screenshot(2).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(2).png)
 
 A ScreenShot of the right letter being selected
+![Hangman Screenshots/Screenshot(3).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(3).png)
 
 A ScreenShot of the wrong letter being selected 
+![Hangman Screenshots/Screenshot(4).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(3).png)
 
 A ScreenShot of the playler losing with a restart button appearing
+![Hangman Screenshots/Screenshot(5).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(4).png)
 
 A ScreenShot of the player winning with a restart button appearing
+![Hangman Screenshots/Screenshot(6).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(5).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
