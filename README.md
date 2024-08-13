@@ -30,13 +30,13 @@ A ScreenShot of the right letter being selected
 ![Hangman Screenshots/Screenshot(3).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(3).png)
 
 A ScreenShot of the wrong letter being selected 
-![Hangman Screenshots/Screenshot(4).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(3).png)
+![Hangman Screenshots/Screenshot(4).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(4).png)
 
 A ScreenShot of the playler losing with a restart button appearing
-![Hangman Screenshots/Screenshot(5).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(4).png)
+![Hangman Screenshots/Screenshot(5).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(5).png)
 
 A ScreenShot of the player winning with a restart button appearing
-![Hangman Screenshots/Screenshot(6).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(5).png)
+![Hangman Screenshots/Screenshot(6).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(6).png)
 
 ### Credit
 * [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
